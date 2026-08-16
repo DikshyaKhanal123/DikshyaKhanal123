@@ -65,7 +65,7 @@
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="https://streak-stats.demolab.com/?user=dikshyakhanal123&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="dikshyakhanal123's GitHub Streak" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=dikshyakhanal123&theme=highcontrast&hide_border=true&cache_seconds=1800&timezone=Asia%2FKathmandu" alt="dikshyakhanal123's GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
